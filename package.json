@@ -1,0 +1,25 @@
+{
+    "name": "cordova-plugin-hello",
+    "version": "0.7.0",
+    "cordova": {
+        "id": "co.bandpad.test",
+        "platforms": [
+             "android",
+             "ios"
+        ]
+    },
+    "description": "Cordova P Plugin",
+    "license": "Apache 2.0",
+    "repository":{
+        "type": "git",
+        "url": "https://github.com/amitgur/cordova-plugin-hello.git"
+    },
+    "bugs": "https://issues.apache.org/jira/browse/CB/component/12320648",
+    "keywords": [
+        "cordova",
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+    "engines": [],
+    "author": "Apache Software Foundation"
+}

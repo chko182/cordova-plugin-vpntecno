@@ -13,7 +13,10 @@
                                resultWithStatus:CDVCommandStatus_OK
                                messageAsString:msg];
 
+    NSLog(@"Amit Hello");
+
     [self success:result callbackId:callbackId];
+
 }
 
 @end

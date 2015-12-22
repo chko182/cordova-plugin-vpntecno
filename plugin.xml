@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-        id="co.banpad.test"
+        id="co.banpad.test_tecno"
         version="0.7.0">
 
   <name>Hello</name>
+  <description>Cordova VPN Plugin</description>
 
   <engines>
     <engine name="cordova" version=">=3.4.0"/>

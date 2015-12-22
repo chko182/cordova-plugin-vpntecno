@@ -1,3 +1,3 @@
-# Cordova Test Plugin
+# Cordova VPN Plugin
 
-For develop only
+Desarrollado por TecnoScala para revisión de Conexiones VPN en dispositivos iOS y Android.
